@@ -55,7 +55,7 @@ sniffly init
 
 ### From source
 ```bash
-git clone https://github.com/chiphuyen/sniffly.git
+git clone https://github.com/Dopular/sniffly.git
 cd sniffly
 pip install -e .
 sniffly init
@@ -141,7 +141,7 @@ sniffly config unset port
 rm ~/.sniffly/config.json
 ```
 
-For more issues, see [GitHub Issues](https://github.com/chiphuyen/sniffly/issues).
+For more issues, see [GitHub Issues](https://github.com/Dopular/sniffly/issues).
 
 ## 🔐 Privacy
 
@@ -159,4 +159,4 @@ MIT License - see [LICENSE](LICENSE) file.
 
 - **Homepage**: [sniffly.dev](https://sniffly.dev)
 - **Documentation**: [Full CLI Reference](docs/cli-reference.md)
-- **Issues**: [GitHub Issues](https://github.com/chiphuyen/sniffly/issues)
+- **Issues**: [GitHub Issues](https://github.com/Dopular/sniffly/issues)
